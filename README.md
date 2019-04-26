@@ -1,0 +1,2 @@
+# smallscript
+Interactive JavaScript workspace
